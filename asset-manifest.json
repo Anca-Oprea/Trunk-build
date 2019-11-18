@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Trunk-build/static/css/main.a1b6d646.chunk.css",
-    "main.js": "/Trunk-build/static/js/main.8546ca7f.chunk.js",
-    "main.js.map": "/Trunk-build/static/js/main.8546ca7f.chunk.js.map",
+    "main.css": "/Trunk-build/static/css/main.49782698.chunk.css",
+    "main.js": "/Trunk-build/static/js/main.547fec3b.chunk.js",
+    "main.js.map": "/Trunk-build/static/js/main.547fec3b.chunk.js.map",
     "runtime-main.js": "/Trunk-build/static/js/runtime-main.bef7d949.js",
     "runtime-main.js.map": "/Trunk-build/static/js/runtime-main.bef7d949.js.map",
     "static/css/2.559fd73f.chunk.css": "/Trunk-build/static/css/2.559fd73f.chunk.css",
-    "static/js/2.70661b9e.chunk.js": "/Trunk-build/static/js/2.70661b9e.chunk.js",
-    "static/js/2.70661b9e.chunk.js.map": "/Trunk-build/static/js/2.70661b9e.chunk.js.map",
+    "static/js/2.0edf8c41.chunk.js": "/Trunk-build/static/js/2.0edf8c41.chunk.js",
+    "static/js/2.0edf8c41.chunk.js.map": "/Trunk-build/static/js/2.0edf8c41.chunk.js.map",
     "index.html": "/Trunk-build/index.html",
-    "precache-manifest.6e73d2232b89af10c45d8a5f6ea3336c.js": "/Trunk-build/precache-manifest.6e73d2232b89af10c45d8a5f6ea3336c.js",
+    "precache-manifest.bfbf4303e915ee4f6fc8d2cb0f0b788c.js": "/Trunk-build/precache-manifest.bfbf4303e915ee4f6fc8d2cb0f0b788c.js",
     "service-worker.js": "/Trunk-build/service-worker.js",
     "static/css/2.559fd73f.chunk.css.map": "/Trunk-build/static/css/2.559fd73f.chunk.css.map",
-    "static/css/main.a1b6d646.chunk.css.map": "/Trunk-build/static/css/main.a1b6d646.chunk.css.map"
+    "static/css/main.49782698.chunk.css.map": "/Trunk-build/static/css/main.49782698.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.bef7d949.js",
     "static/css/2.559fd73f.chunk.css",
-    "static/js/2.70661b9e.chunk.js",
-    "static/css/main.a1b6d646.chunk.css",
-    "static/js/main.8546ca7f.chunk.js"
+    "static/js/2.0edf8c41.chunk.js",
+    "static/css/main.49782698.chunk.css",
+    "static/js/main.547fec3b.chunk.js"
   ]
 }
